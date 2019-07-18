@@ -17,6 +17,9 @@ import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 
+/**
+ * 指纹解锁demo 其他功能还有待研究
+ */
 public class MainActivity extends AppCompatActivity {
     private static final String DEFAULT_KEY_NAME = "default_key";
 
